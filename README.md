@@ -1,7 +1,6 @@
 # Omnifood
 A mock front-end responsive website for Omnifood using HTML, CSS, and JavaScript
 
-# Site Link
 https://omnifood-tyegarcia.netlify.app/
 
 
